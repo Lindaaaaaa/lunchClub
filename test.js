@@ -8,7 +8,7 @@ var autoReconnect = true;
 var autoMark = true;
 var messageNum = 0;
 
-var slack = new Slack(slackToken, autoReconnect, autoMark);
+//var slack = new Slack(slackToken, autoReconnect, autoMark);
 
 var channel;
 
@@ -600,8 +600,8 @@ slack.on('message', function(message){
 
 });
 
-slack.on('error', function(err){
+/*slack.on('error', function(err){
 	console.error("Error", err);
-});
+});*/
 
-slack.login();
+//slack.login();
