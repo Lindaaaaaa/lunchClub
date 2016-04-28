@@ -1,0 +1,23 @@
+{
+  "name": "lunchclub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.2.0",
+    "jquery": "^2.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "slack-client": "^1.4.1"
+  },
+  "devDependencies": {
+    "live-server": "^0.8.2"
+  },
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,45 @@
+1.12.2016
+Group Jo: Spencer, Valerio, Dan Ryan, Shiori
+Group Kevin: Rodolphe, John, Erica, Ron
+Group Marielle: Steve, Jeremy, Ariel, Linda
+
+1.12.2016
+Group Jo: Steve, Ron, Jeremy, Spencer
+Group Kevin: Rodolphe, Linda, Ariel, Dan Ryan
+Group Marielle: Erica, Valerio, Shiori, John
+
+1.12.2016
+Group Rodolphe: Jo, Marielle, Erica, Ariel
+Group Jeremy: Linda, Ron, Shiori, Dan Ryan
+Group Valerio: Spencer, John, Kevin, Steve
+
+1.12.2016
+Group Ariel: Shiori, Rodolphe, Ron, Jeremy
+Group Jo: Spencer, Marielle, Dan Ryan, Valerio
+Group Steve: Kevin, Linda, John, Erica
+
+1.12.2016
+Group Kevin: Spencer, Ariel, Ron, Jeremy
+Group Marielle: Jo, Valerio, Dan Ryan, Steve
+Group Rodolphe: Linda, Erica, Shiori, John
+
+1.12.2016
+Group Erica: Kevin, Ron, Rodolphe, Linda
+Group Jeremy: Marielle, Spencer, Dan Ryan, John
+Group Valerio: Jo, Ariel, Shiori, Steve
+
+1.12.2016
+Group Ariel: Kevin, Marielle, Ron, Jeremy
+Group Jo: Rodolphe, Linda, John, Shiori
+Group Steve: Spencer, Erica, Dan Ryan, Valerio
+
+1.12.2016
+Group Kevin: Jeremy, Linda, Valerio, John
+Group Marielle: Dan Ryan, Ariel, Erica, Steve
+Group Rodolphe: Spencer, Ron, Shiori, Jo
+
+1.19.2016
+Group Erica: Ron, Kevin, Jo, Rodolphe
+Group Jeremy: Ariel, Linda, Shiori, Spencer
+Group Valerio: Marielle, John, Dan Ryan, Steve
+
