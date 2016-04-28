@@ -3,7 +3,7 @@ var fs = require('fs');
 var restaurantList = require('./restaurants.json');
 var userList = JSON.parse(fs.readFileSync('users.json', 'utf8'));
 
-var slackToken = 'xoxb-15057097734-N0REESK80Jetfe4aiXaMoEQ4';
+var slackToken = '';
 var autoReconnect = true;
 var autoMark = true;
 var messageNum = 0;
